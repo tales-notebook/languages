@@ -1,0 +1,15 @@
+{
+    "manga": "Manga",
+    "action": "Action",
+    "adventure": "Adventure",
+    "comedy": "Comedy",
+    "drama": "Drama",
+    "fantasy": "Fantasy",
+    "historical": "Historical",
+    "horror": "Horror",
+    "mystery": "Mystery",
+    "romance": "Romance",
+    "sciFi": "Sci-fi",
+    "sports": "Sports",
+    "sliceOfLife": "Slice of Life"
+}

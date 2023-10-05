@@ -1,0 +1,38 @@
+{
+    "createChapter": {
+        "title.required": "Title is required"
+    },
+    "updateProjectGenre": {
+        "exists": "Invalid genre(s)"
+    },
+    "createProject": {
+        "*": "Invalid data",
+        "accountId.exists": "Invalid account"
+    },
+    "createProjectTranslation": {
+        "*": "Invalid data",
+        "accountId.exists": "Invalid account"
+    },
+    "createChapterTranslation": {
+        "*": "Invalid data",
+        "chapterId.exists": "Invalid chapter"
+    },
+    "createSubscription": {
+        "*": "Invalid data",
+        "tierId.exists": "Invalid tier",
+        "paymentMethodId.required": "Invalid Payment Method",
+        "paymentMethodId.exists": "Invalid Payment Method",
+        "projectId.exists": "Invalid project"
+    },
+    "createTier": {
+        "*": "Invalid data",
+        "amount.range": "Amount must be between {start} and {stop}"
+    },
+    "createChapterObject": {
+        "*": "Invalid data",
+        "file.size": "File size must be less than {size}",
+        "image.requiredWhen": "Image is required when type is image",
+        "width.requiredWhen": "Image width are required when type is image",
+        "height.requiredWhen": "Image height are required when type is image"
+    }
+}

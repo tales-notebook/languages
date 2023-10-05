@@ -1,0 +1,45 @@
+{
+    "internalServerError": "Internal Server Error",    
+    "invalidAccountType": "Invalid account type {0}",
+    "unauthorized": "Unauthorized",
+    "badRequest": "Bad Request",
+
+    "cannotUpdateTier": "Cannot update tier",
+    "cannotSubscribeToDeletedTier": "Cannot subscribe to deleted tier",
+    "projectCannotReceivePayments": "Project cannot receive payments",
+    "userIsAlreadySubscribedToTheProject": "User is already subscribed to the project",
+    "cannotSubscribeToOwnProject": "Cannot subscribe to own project",
+    "projectIsNotPublic": "Project is not public",
+    "thereIsAnPendingPaymentSubscriptionForTheProject": "There is an pending payment subscription for the project",
+    "cannotHaveTiersWithSameAmount": "Cannot have tiers with same amount",
+    
+    "tierIsNotLowerThanCurrent": "Tier is not lower than current",
+    "tierIsNotHigherThanCurrent": "Tier is not higher than current",
+    "projectSubscriptionTierIsNotHigher": "Project subscription tier is not higher",
+    "projectIsNotSameProject": "Project is not same project",
+    
+    "paymentAlreadyProcessed": "Payment already processed",
+    "invalidPaymentType": "Invalid payment type {0}",
+    "invalidTransferStatus": "Invalid transfer status {0}",
+    "missingPaymentRelatedData": "Missing payment related data",
+    "paymentPending": "Payment pending",
+    "paymentIsNotPending": "Payment is not pending",
+    "payoutAccountCannotReceivePayments": "Payout account cannot receive payments",
+    "tiersLimitReached": "Tiers limit reached",
+    "canNotSubscribeToTier": "Can not subscribe to tier",
+    "subscriptionIsNotActive": "Subscription is not active",
+    "invalidStatus": "Invalid status {0}",
+    "reactivationPeriodHasEnded": "Reactivation period has ended",
+
+    "cannotDeleteDefaultPayoutAccount": "Cannot delete default payout account",
+    "isRequiredAtLeastOnePayoutAccount": "Is required at least one payout account",
+
+    "userPaymentMethodsNotConfigure": "User payment methods not configure",
+    "creatorCanNotReceivePayouts": "Creator can not receive payouts",
+    "invalidProjectTypeForAccountType": "Invalid project type for account type",
+    "paymentMethodsNotConfigured": "Payment methods not configured",
+    "canNotUpdateSubscription": "Can not update subscription",
+    "featureNotAvailableInCurrentCountry": "Feature not available in current country",
+    "userBanned": "User banned",
+    "invalidCredentials": "Invalid credentials"
+}
