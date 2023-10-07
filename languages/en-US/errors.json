@@ -41,5 +41,6 @@
     "canNotUpdateSubscription": "Can not update subscription",
     "featureNotAvailableInCurrentCountry": "Feature not available in current country",
     "userBanned": "User banned",
-    "invalidCredentials": "Invalid credentials"
+    "invalidCredentials": "Invalid credentials",
+    "cannotUpdateSystemMetas": "Cannot update system metas"
 }
