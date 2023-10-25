@@ -42,5 +42,7 @@
     "featureNotAvailableInCurrentCountry": "Feature not available in current country",
     "userBanned": "User banned",
     "invalidCredentials": "Invalid credentials",
-    "cannotUpdateSystemMetas": "Cannot update system metas"
+    "cannotUpdateSystemMetas": "Cannot update system metas",
+    "userNotVerified": "User not verified",
+    "invalidToken": "Invalid token"
 }

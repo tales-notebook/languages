@@ -262,5 +262,8 @@
     "onlySubscribersCanReadThisChapter": "Only subscribers can read this chapter",
     "thisSiteUseCookies": "This site uses cookies to offer you a better browsing experience. By continuing to browse the site, you are agreeing to our use of cookies.",
     "accept": "Accept",
-    "home": "Home"
+    "home": "Home",
+    "verifyEmail": "Verify Email",
+    "checkYourEmailToVerifyAccount": "Check your email to verify your account",
+    "emailVerified": "Email verified"
 }
