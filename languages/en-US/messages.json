@@ -266,5 +266,8 @@
     "verifyEmail": "Verify Email",
     "checkYourEmailToVerifyAccount": "Check your email to verify your account",
     "emailVerified": "Email verified",
-    "chapterUpdate": "Chapter Update"
+    "chapterUpdate": "Chapter Update",
+    "chapterUpdates": "Chapter Updates",
+    "release": "Release",
+    "executeAt": "Execute at"
 }
