@@ -44,5 +44,6 @@
     "invalidCredentials": "Invalid credentials",
     "cannotUpdateSystemMetas": "Cannot update system metas",
     "userNotVerified": "User not verified",
-    "invalidToken": "Invalid token"
+    "invalidToken": "Invalid token",
+    "invalidRevenueShareValue": "Invalid revenue share value"
 }
