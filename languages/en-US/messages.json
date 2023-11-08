@@ -271,5 +271,6 @@
     "release": "Release",
     "executeAt": "Execute at",
     "revenueShare": "Revenue Share",
-    "revenueShareFeeDisclaimer": "This is the percentage you get from subscriptions of the translations of your project"
+    "revenueShareFeeDisclaimer": "This is the percentage you get from subscriptions of the translations of your project",
+    "comment": "Comment"
 }

@@ -34,5 +34,9 @@
         "image.requiredWhen": "Image is required when type is image",
         "width.requiredWhen": "Image width are required when type is image",
         "height.requiredWhen": "Image height are required when type is image"
+    },
+    "createChapterComment": {
+        "accountId.required": "Invalid account",
+        "accountId.exists": "Invalid account"
     }
 }
