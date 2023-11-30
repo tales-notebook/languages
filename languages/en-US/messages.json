@@ -275,5 +275,8 @@
     "comment": "Comment",
     "comments": "Comments",
     "writeComment": "Write a comment...",
-    "commentAs": "Send as"
+    "commentAs": "Send as",
+    "replies": "Replies",
+    "reply": "Reply",
+    "loading": "Loading"
 }
