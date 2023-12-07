@@ -45,5 +45,6 @@
     "cannotUpdateSystemMetas": "Cannot update system metas",
     "userNotVerified": "User not verified",
     "invalidToken": "Invalid token",
-    "invalidRevenueShareValue": "Invalid revenue share value"
+    "invalidRevenueShareValue": "Invalid revenue share value",
+    "countryNotSupportPayments": "Country not support payments"
 }

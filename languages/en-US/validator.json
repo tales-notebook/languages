@@ -38,5 +38,8 @@
     "createChapterComment": {
         "accountId.required": "Invalid account",
         "accountId.exists": "Invalid account"
+    },
+    "createTaxInformation": {
+        "country.exists": "Invalid country"
     }
 }
