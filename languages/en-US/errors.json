@@ -47,5 +47,6 @@
     "invalidToken": "Invalid token",
     "invalidRevenueShareValue": "Invalid revenue share value",
     "countryNotSupportPayments": "Country not support payments",
-    "maxTaxInformationItemsReached": "Max tax information items reached"
+    "maxTaxInformationItemsReached": "Max tax information items reached",
+    "maxAccountPerUserReached": "Max account per user reached"
 }

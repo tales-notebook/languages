@@ -1,4 +1,7 @@
 {
+    "createAccount": {
+        "username.unique": "Username already taken"
+    },
     "createChapter": {
         "title.required": "Title is required"
     },
