@@ -36,6 +36,7 @@
         "height.requiredWhen": "Image height are required when type is image"
     },
     "createChapterComment": {
+        "chapterId.exists": "Invalid chapter",
         "accountId.required": "Invalid account",
         "accountId.exists": "Invalid account"
     },

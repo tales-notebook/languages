@@ -34,7 +34,7 @@
     "cannotDeleteDefaultPayoutAccount": "Cannot delete default payout account",
     "isRequiredAtLeastOnePayoutAccount": "Is required at least one payout account",
 
-    "userPaymentMethodsNotConfigure": "User payment methods not configure",
+    "userPaymentNotConfigure": "User payments not configured",
     "creatorCanNotReceivePayouts": "Creator can not receive payouts",
     "invalidProjectTypeForAccountType": "Invalid project type for account type",
     "paymentMethodsNotConfigured": "Payment methods not configured",
@@ -46,5 +46,6 @@
     "userNotVerified": "User not verified",
     "invalidToken": "Invalid token",
     "invalidRevenueShareValue": "Invalid revenue share value",
-    "countryNotSupportPayments": "Country not support payments"
+    "countryNotSupportPayments": "Country not support payments",
+    "maxTaxInformationItemsReached": "Max tax information items reached"
 }
