@@ -300,5 +300,6 @@
     "optional": "Optional",
     "supported": "Supported",
     "notSupported": "Not supported",
-    "setAsDefault": "Set as default"
+    "setAsDefault": "Set as default",
+    "support": "Support"
 }
