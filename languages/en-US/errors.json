@@ -49,5 +49,6 @@
     "countryNotSupportPayments": "Country not support payments",
     "maxTaxInformationItemsReached": "Max tax information items reached",
     "maxAccountPerUserReached": "Max account per user reached",
-    "countryNotSupported": "Country not supported"
+    "countryNotSupported": "Country not supported",
+    "mustAgreeWithTerms": "You must agree with terms"
 }
