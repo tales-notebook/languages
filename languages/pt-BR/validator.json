@@ -1,0 +1,49 @@
+{
+    "createAccount": {
+        "username.unique": "Nome de usuário já utilizado"
+    },
+    "createChapter": {
+        "title.required": "O título é obrigatório"
+    },
+    "updateProjectGenre": {
+        "exists": "Gênero(s) inválido(s)"
+    },
+    "createProject": {
+        "*": "Dados inválidos",
+        "accountId.exists": "Conta inválida"
+    },
+    "createProjectTranslation": {
+        "*": "Dados inválidos",
+        "accountId.exists": "Conta inválida"
+    },
+    "createChapterTranslation": {
+        "*": "Dados inválidos",
+        "chapterId.exists": "Capítulo inválido"
+    },
+    "createSubscription": {
+        "*": "Dados inválidos",
+        "tierId.exists": "Nível inválido",
+        "paymentMethodId.required": "Método de pagamento inválido",
+        "paymentMethodId.exists": "Método de pagamento inválido",
+        "projectId.exists": "Projeto inválido"
+    },
+    "createTier": {
+        "*": "Dados inválidos",
+        "amount.range": "O valor deve estar entre {start} e {stop}"
+    },
+    "createChapterObject": {
+        "*": "Dados inválidos",
+        "file.size": "O tamanho do arquivo deve ser inferior a {size}",
+        "image.requiredWhen": "A imagem é obrigatória quando o tipo é imagem",
+        "width.requiredWhen": "A largura da imagem é obrigatória quando o tipo é imagem",
+        "height.requiredWhen": "A altura da imagem é obrigatória quando o tipo é imagem"
+    },
+    "createChapterComment": {
+        "chapterId.exists": "Capítulo inválido",
+        "accountId.required": "Conta inválida",
+        "accountId.exists": "Conta inválida"
+    },
+    "createTaxInformation": {
+        "country.exists": "País inválido"
+    }
+}

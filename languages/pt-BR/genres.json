@@ -1,0 +1,14 @@
+{
+    "action": "Ação",
+    "adventure": "Aventura",
+    "comedy": "Comédia",
+    "drama": "Drama",
+    "fantasy": "Fantasia",
+    "historical": "Histórico",
+    "horror": "Horror",
+    "mystery": "Mistério",
+    "romance": "Romance",
+    "sciFi": "Sci-Fi",
+    "sports": "Esportes",
+    "sliceOfLife": "Slice of Life"
+}
